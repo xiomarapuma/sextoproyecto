@@ -1,3 +1,14 @@
+Problem 1. [5 puntos] [Fuente: Projecteuler.net. Problem 1] Si se imprimiera todos los
+n´umeros naturales menores que 10, los cuales sean multiplos de 3 o 5, obtendrıamos: 3, 5, 6, 9.
+La suma de estos multiplos es 23.
+Encontrar la suma de todos los m´ultiplos de 3 o 5 menores a 1000000.
+Problem 2. [5 puntos] Escribir una funci´on que recibe un entero y retorna el entero invertido. Por ejemplo, dado el numero 7631, la funci´on debe retornar 1367.
+Problem 3. [5 puntos] Escribir una funci´on recursiva power( base, exponent ) la cual, cuando se invoque, debe retornar baseexponente
+Por ejemplo, power( 3, 4 ) = 3 * 3 * 3 * 3.
+Asuma que exponent es un entero mayor o igual que 1.
+Problem 4. [5 puntos] Implemente dos funciones que encuentre el fibonacci de un n´umero,
+una de la forma iterativa o otra de la forma recursiva.
+
 #include <iostream>
 
 using namespace std;
